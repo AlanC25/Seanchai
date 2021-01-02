@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: d6dc584291af5db48985299ab4f18d73
-labels:
-- LegacyProject
-timeCreated: 1494179550
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: prefabs
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca0dbc9dec9a1003dcd5df494852eba2e97166d1e8d0ee932140fbad2d9950ab
+size 222

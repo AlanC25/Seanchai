@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: c16e262ea0b30de419838790012ffe96
-labels:
-- Lantern
-timeCreated: 1438785658
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfc24c4fa154df07be68caa4c1c7563682a3d34372c17dacd2a458da22398771
+size 209

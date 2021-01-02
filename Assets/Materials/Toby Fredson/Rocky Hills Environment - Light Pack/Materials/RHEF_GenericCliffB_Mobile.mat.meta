@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 9d1903eb1bcfb1d42acfbd4d8c7a90b5
-labels:
-- cliff
-- dirt
-- grass
-- materials
-- rockgrass
-- rocks
-- smalldetails
-- stones
-timeCreated: 1494164300
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: materials
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40b1590c2aa8265c176910c5d2b9f510ff4aa678be2f489abc9fa78dc11bc3d
+size 294

@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: e08ce5a1377bb014ebebde2c4e6f6848
-labels:
-- Chest
-- Trasure
-timeCreated: 1438785494
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5407c0319cedf0b5251aa5f7c01f5d2f90882cbcacdbfcba69371109890cb7c6
+size 218

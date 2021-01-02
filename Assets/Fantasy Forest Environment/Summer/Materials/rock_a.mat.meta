@@ -1,9 +1,3 @@
-fileFormatVersion: 2
-guid: 2c240648e3c98ce42b3de7fc31bcb4a0
-labels:
-- Material
-- Rock
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a9d583e483e0b6855e7feab6ca5faae84f19f658307fbaa3d22f29b10f99087
+size 164

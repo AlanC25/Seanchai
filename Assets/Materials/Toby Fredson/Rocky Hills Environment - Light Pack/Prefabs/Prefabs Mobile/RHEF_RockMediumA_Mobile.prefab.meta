@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 01fdffdb35358544f8c6080251208de3
-labels:
-- cliff
-- dirt
-- grass
-- prefabs
-- rockgrass
-- rocks
-- stones
-timeCreated: 1494163968
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: prefabsmobile
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f013824142736d06b8f8bde62b2594787d19e40c9d573b7659453fbd3392010
+size 280

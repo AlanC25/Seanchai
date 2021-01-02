@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 3f685d36e855472478779cab3f607b47
-labels:
-- Scenes
-- cave
-- cliff
-- pine
-- spruce
-- tree
-timeCreated: 1493509366
-licenseType: Store
-DefaultImporter:
-  userData: 
-  assetBundleName: scenes
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:f144516c2611c3ae5d095b8912fc2debbb44587e4ff46cd904a7b8caaed14c02
+size 252

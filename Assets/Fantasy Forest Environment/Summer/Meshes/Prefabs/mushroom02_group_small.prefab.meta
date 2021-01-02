@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 050bf261ab7fc4a42824c7d886f39651
-labels:
-- Prefab
-- Mushroom
-- Doodad
-- mesh
-- clutter
-- Foliage
-- model
-timeCreated: 1426590530
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:60199bbb42eda26a56e023e51c128de4eecd40686366a1d33c4fce942191b200
+size 253

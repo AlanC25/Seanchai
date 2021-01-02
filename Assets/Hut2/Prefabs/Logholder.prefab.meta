@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: 180ebf63730d758468f00d796faf3f32
-labels:
-- Log
-- Fireplace
-timeCreated: 1438785689
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:b535857aaeeab3b99cfc27a4a46a240eb1038202f4a8859af0e6c56db5ee8f08
+size 218

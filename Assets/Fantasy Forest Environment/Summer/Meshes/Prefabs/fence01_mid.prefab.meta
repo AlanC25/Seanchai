@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 1a0edf7300c5c2a4fa0a417aa3b4c9cf
-labels:
-- Prefab
-- model
-- Wood
-- mesh
-- Doodad
-- Fence
-timeCreated: 1428399565
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2e6b45130f5167d992d607e94169a481547522a9ea9af731daabb39c316d7e0
+size 237

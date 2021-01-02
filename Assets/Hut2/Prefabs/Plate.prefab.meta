@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: 5510446a11b8ce74a9c5d6aaf396312f
-labels:
-- Plate
-- China
-timeCreated: 1438785782
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:98a1cb3e9e0daf7b54d887b842068a29498da10d49c1b011952f9bdb0e22cead
+size 216

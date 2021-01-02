@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: 76c8b53cdd3ff51459b27c8600ff0b75
-labels:
-- readme
-timeCreated: 1494159572
-licenseType: Store
-DefaultImporter:
-  userData: 
-  assetBundleName: readme
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0beb11b58a9b8225824ab049bfcf88ace3058b4f051b32aa18921f8cf82894b
+size 209

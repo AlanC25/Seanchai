@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 40fa80823110ef94d8a2e11f2cfdad17
-labels:
-- Prefab
-- Rock
-- model
-- mesh
-- Doodad
-timeCreated: 1426591909
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c53aece0d88d222bac2e1252e223796a4280fef2d060302d9c20d147d424e9a
+size 229

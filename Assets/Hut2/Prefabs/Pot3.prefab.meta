@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 494a72bed5c8db84c9a24508c4e47eb9
-labels:
-- Pot
-- Vase
-- Mug
-timeCreated: 1438785816
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:278c79137ed072c0ba63f71418de790d9e3ce13f93eb36258b9a050fa22fe61a
+size 220

@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: aa4e3ee16eb7e9c4e86ebf57727ca2b0
-labels:
-- Bag
-- Sack
-timeCreated: 1438785700
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad6262cc7f836fb20abcd9100d6bd9a5efba75030229411f743718970d57bd7
+size 213

@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: b10c26e0cb074384aacaa3675afec293
-labels:
-- Plank
-- Wood
-timeCreated: 1438785724
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a584ade638b060792002e2f601dc53c695ba8474c5e8f54766deadd7b1d1137
+size 215

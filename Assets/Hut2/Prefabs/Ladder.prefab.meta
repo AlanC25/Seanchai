@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: 7cd3125303aacbd4297740bab858d869
-labels:
-- Ladder
-timeCreated: 1438785520
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dd097b41b4c80dc523a841ff92f9b34319ce281a0b2f954a91c68e859467cb1
+size 208

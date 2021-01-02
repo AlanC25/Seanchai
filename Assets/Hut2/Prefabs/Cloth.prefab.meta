@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: 6f93339e9682ee546b5c9a200fbb8d08
-labels:
-- Fabric
-timeCreated: 1438785507
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e234ab6d5e25a6228dadfd07a6608ff9f459b4c5bfbbc39a1a52a76f923ab53
+size 208

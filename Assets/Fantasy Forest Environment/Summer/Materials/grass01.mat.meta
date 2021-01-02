@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 73eb7fb9b79b2554d8196f9e5f7236c0
-labels:
-- Material
-- grass
-- Terrain
-timeCreated: 1428405233
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b712d14f23d885f8392da4b25317e1e8a8002708607e8398bd934069661cde3
+size 218

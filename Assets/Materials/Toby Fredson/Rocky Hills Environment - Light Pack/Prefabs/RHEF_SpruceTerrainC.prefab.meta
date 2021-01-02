@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 000fe5e39bc5b2b44b03d5e5d4f40d7c
-labels:
-- bark
-- pine
-- prefabs
-- spruce
-- tree
-timeCreated: 1493846671
-licenseType: Store
-NativeFormatImporter:
-  userData: 
-  assetBundleName: prefabs
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e87c91d99f38ed61f23282c56480ea7a8575d3d7544174ac4c140710e74f387e
+size 250

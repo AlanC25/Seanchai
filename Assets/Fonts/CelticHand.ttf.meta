@@ -1,22 +1,3 @@
-fileFormatVersion: 2
-guid: e4feec67d98f7c246b12a3370cd41a62
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: Celtic Hand
-  fontNames:
-  - Celtic Hand
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:624a0021ce83f002c2cf587ffd21610eadb9fef1908ea90a9e8650bd5d393e35
+size 500
