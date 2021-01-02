@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 8767c040905c08143af3f2561d7873a3
+labels:
+- Hut
+- Shack
+timeCreated: 1438783908
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Door
+    100002: Fence
+    100004: Fireplace
+    100006: FireplaceDoor
+    100008: Handle
+    100010: //RootNode
+    100012: Patio
+    100014: Pipes
+    100016: Plankfloor
+    100018: Roof
+    100020: Stairs
+    100022: Walls
+    400000: Door
+    400002: Fence
+    400004: Fireplace
+    400006: FireplaceDoor
+    400008: Handle
+    400010: //RootNode
+    400012: Patio
+    400014: Pipes
+    400016: Plankfloor
+    400018: Roof
+    400020: Stairs
+    400022: Walls
+    2300000: Door
+    2300002: Fence
+    2300004: Fireplace
+    2300006: FireplaceDoor
+    2300008: Handle
+    2300010: //RootNode
+    2300012: Patio
+    2300014: Pipes
+    2300016: Plankfloor
+    2300018: Roof
+    2300020: Stairs
+    2300022: Walls
+    3300000: Door
+    3300002: Fence
+    3300004: Fireplace
+    3300006: FireplaceDoor
+    3300008: Handle
+    3300010: //RootNode
+    3300012: Patio
+    3300014: Pipes
+    3300016: Plankfloor
+    3300018: Roof
+    3300020: Stairs
+    3300022: Walls
+    4300000: Hut_Main
+    4300002: Fence
+    4300004: Stairs
+    4300006: Patio
+    4300008: Walls
+    4300010: Door
+    4300012: Roof
+    4300014: Plankfloor
+    4300016: Fireplace
+    4300018: Pipes
+    4300020: FireplaceDoor
+    4300022: Handle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
