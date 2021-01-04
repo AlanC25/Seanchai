@@ -1,1 +1,7 @@
 *.meta filter=lfs diff=lfs merge=lfs -text
+Seanchai-FMOD/Assets/TheSalleyGardensInstrumental.wav filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Seanchai-FMOD filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
