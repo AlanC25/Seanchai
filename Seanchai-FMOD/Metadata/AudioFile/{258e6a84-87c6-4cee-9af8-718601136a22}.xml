@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{258e6a84-87c6-4cee-9af8-718601136a22}">
+		<property name="assetPath">
+			<value>Room Narration.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>41.888798185941042</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5631bd10-aafe-4439-98ae-777329fc3ddc}</destination>
+		</relationship>
+	</object>
+</objects>
