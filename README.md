@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23d07424c0e535a93a1514c5dc17d42db48c6168f41e2716b14864ef9ef85390
-size 10
+# Seanchai
+
+A video game telling Irish tales through the use of Seanchaí (Irish for storytellers).
+
+Stories included are:
+
+The Giant's Causeway,
+The Dream of Oengus, 
+And The Salmon of Knowledge
